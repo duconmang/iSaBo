@@ -18,8 +18,8 @@
 
 ```bash
 # Clone
-git clone https://github.com/user/digital_saving_box.git
-cd digital_saving_box
+git clone https://github.com/duconmang/iSaBo
+cd iSaBo
 
 # Install dependencies
 flutter pub get
